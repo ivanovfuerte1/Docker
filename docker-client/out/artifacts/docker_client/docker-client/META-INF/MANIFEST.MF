@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./lib/commons-codec-1.11.jar ./lib/httpclient-4.5.3.jar ./lib/commons-logging-1.2.jar ./lib/httpcore-4.4.9.jar
+Main-Class: Main
+
